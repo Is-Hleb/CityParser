@@ -1,0 +1,16 @@
+{
+    "name": "is_hleb/city-parser",
+    "autoload": {
+        "psr-4": {
+            "IsHleb\\CityParser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {
+        "aternus/geonames-client": "^2.2"
+    }
+}
